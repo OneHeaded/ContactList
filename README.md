@@ -55,7 +55,7 @@ arrcon.add(new conatctmodel(R.drawable.b, num, name));
 
 You can download and install the app using the provided APK file:
 
-**[📦 app-debug.apk](app/build/outputs/apk/debug/app-debug.apk)**
+**[📦 app-debug.apk](https://github.com/OneHeaded/ContactList/releases/download/v1.0.3/app-debug.apk)**
 
 ---
 
