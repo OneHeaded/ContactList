@@ -59,10 +59,28 @@ You can download and install the app using the provided APK file:
 
 ---
 
+## Dependencies
+
+- AndroidX AppCompat library for backward compatibility.
+- Standard Android SDK components (no additional external libraries required).
+
+---
+
+## Future Improvements
+
+- Clone the repository:
+   ```bash
+   git clone https://github.com/OneHeaded/ContactList.git
+   ```
+1. Add local/cloud data storage.
+2. UI Improvement
+3. Adding custom image to contacts.
+4. Bug fixes.
+
+---
+
 ### 📝 License
 
 This project is free and open source under the [MIT License](LICENSE).
 
 ---
-
-If you want, I can also clone this repo and add or make changes to this.
